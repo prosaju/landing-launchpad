@@ -101,3 +101,52 @@ header{
     color: rgba(37, 36, 50, 0.5);
 }
 
+/* review section */
+.review-section{
+    margin-bottom: 130px;
+}
+.review-section-title{
+    text-align: center;
+    font-size: 42px;
+    font-weight: 700;
+    margin-bottom: 50px;
+}
+.review-container{
+    display: flex;
+    gap: 20px;
+}
+.review{
+    border: 1px solid rgba(242, 237, 237, 1);
+    border-radius: 14px;
+    padding: 24px;
+}
+.review h2{
+    margin-top: 24px;
+}
+.review-img{
+    display: flex;
+    gap: 12px;
+    margin-top: 24px;
+}
+.review-img img{
+    border-radius: 50px;
+}
+
+/* focus section */
+.focus-section{
+    border: 1px solid rgba(242, 237, 237, 1);
+    border-radius: 14px;
+    text-align: center;
+    padding: 70px 150px;
+    margin-bottom: 90px;
+}
+.focus-section p{
+    color: rgba(37, 36, 50, 0.5);
+    margin: 20px 0;
+}
+.focus-section img{
+    display: block;
+    border-radius: 48px;
+    margin-top: 20px;
+}
+
